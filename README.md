@@ -67,6 +67,6 @@ This project demonstrates a complete data ingestion pipeline for fitness trackin
 
 ## Architecture Diagrams
 
-<img src="Picture/p1.png" alt="Databricks Lakehouse Pipeline" width="600"/>
+<img src="Picture/Architeture Image.png" alt="Databricks Lakehouse Pipeline" width="600"/>
 
-<img src="Picture/p2.png" alt="Logical Table Mapping" width="600"/>
+
